@@ -1,1 +1,1 @@
-Introdução sobre os comandos git.
+Introdução sobre os comandos git e github.
